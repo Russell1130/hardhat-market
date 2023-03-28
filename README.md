@@ -104,7 +104,6 @@ Head over to [faucets.chain.link](https://faucets.chain.link/) and get some tesn
 yarn hardhat deploy --network goerli
 ```
 
-
 # Thank you!
 
 If you appreciated this, feel free to follow me or donate!
